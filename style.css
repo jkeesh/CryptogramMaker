@@ -1,0 +1,46 @@
+*{
+	font-family: Courier;
+	font-size: 20px;
+}
+
+textarea{
+	font-size: 20px;
+	width: 700px;
+
+}
+
+body{
+	font-size: 20px;
+}
+
+td{
+	border: 1px solid #ccc;
+	padding: 7px;
+}
+
+tr{
+	margin: none;
+}
+
+table{
+	border-spacing: 0;
+}
+
+#original{
+	background-color: #ccc;
+	margin-top: 10px;
+}
+
+#result{
+	background-color: #C6DBAF;
+	margin-top: 10px;
+}
+
+
+.cryptext{
+	padding: 20px;
+}
+
+#mapping{
+	margin-top: 20px;
+}
